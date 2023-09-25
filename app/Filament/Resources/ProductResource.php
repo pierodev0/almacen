@@ -93,6 +93,8 @@ class ProductResource extends Resource
             //
         ];
     }
+
+    
     
     public static function getPages(): array
     {
